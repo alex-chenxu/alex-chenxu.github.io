@@ -6,4 +6,4 @@
 转载
 ==========
 
-* 2015-09-12 [科学小发明](forwards/innovation.nd)
+* 2015-09-12 [科学小发明](forwards/innovation.md)
